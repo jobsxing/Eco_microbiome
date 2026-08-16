@@ -4,19 +4,10 @@ Dynamics) project, a year-long longitudinal metagenomic study of microbiome,
 resistome, strain-sharing, candidate horizontal gene transfer (HGT), and
 population-genomic dynamics across a human-animal-environment farming
 ecosystem.
-This repository is intended as the version-controlled source archive for the
-associated manuscript and its Zenodo release. It contains analysis code and
-input specifications only. It does **not** contain participant-level metadata,
-sequencing reads, abundance matrices, metagenome-assembled genomes (MAGs),
-inStrain outputs, or other study data.
 ## Repository status
 - **Study:** OH-MicroDynamics
 - **Release type:** manuscript-associated analysis code
 - **Primary languages:** R and Python
-- **Data included:** no study data; schema-only metadata template
-- **GitHub:** `[GITHUB REPOSITORY URL]`
-- **Archived release:** `[ZENODO VERSION DOI]`
-- **Manuscript:** `[MANUSCRIPT DOI OR PREPRINT URL]`
 Replace the bracketed records above when the GitHub repository, Zenodo archive, and manuscript record are public.
 ## Analyses included
 The deposited workflow covers:
