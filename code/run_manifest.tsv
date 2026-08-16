@@ -1,5 +1,4 @@
 order	analysis	script	primary_inputs	purpose
-1	Input validation	code/analysis/00_validate_inputs.py	metadata and matrix headers	Validate schemas and sample identifiers
 2	Sampling completeness	code/analysis/01_sampling_sufficiency/gamma_diversity.R	metadata; MetaPhlAn taxonomy	Incidence-based gamma diversity and completeness
 3	Batch/time sensitivity	code/analysis/02_batch_effects/batch_effects.R	metadata; reads; taxonomy	Assess combined sampling-round/batch variation
 4	Genus alpha diversity	code/analysis/03_alpha_diversity/genus_alpha_diversity.R	metadata; taxonomy	Cluster-robust richness and Shannon comparisons
